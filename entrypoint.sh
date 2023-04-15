@@ -30,19 +30,19 @@ cat > config.json << EOF
                         "dest":3001
                     },
                     {
-                        "path":"/${WSPATH}-vless",
+                        "path":"/${6f661976-eb05-4582-b014-be77fe70575b}-vless",
                         "dest":3002
                     },
                     {
-                        "path":"/${WSPATH}-vmess",
+                        "path":"/${6f661976-eb05-4582-b014-be77fe70575b}-vmess",
                         "dest":3003
                     },
                     {
-                        "path":"/${WSPATH}-trojan",
+                        "path":"/${6f661976-eb05-4582-b014-be77fe70575b}-trojan",
                         "dest":3004
                     },
                     {
-                        "path":"/${WSPATH}-shadowsocks",
+                        "path":"/${6f661976-eb05-4582-b014-be77fe70575b}-shadowsocks",
                         "dest":3005
                     }
                 ]
